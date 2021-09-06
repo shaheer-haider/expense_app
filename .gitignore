@@ -47,10 +47,10 @@ app.*.map.json
 
 # all except work
 .dart_tool/
-/android
-/ios
-/linux
-/macos
-/windows
-/test
-/web
+/android/
+/ios/
+/linux/
+/macos/
+/windows/
+/test/
+/web/
