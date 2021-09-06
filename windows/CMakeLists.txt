@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.15)
-project(expense_app LANGUAGES CXX)
+project(the_expense_app LANGUAGES CXX)
 
-set(BINARY_NAME "expense_app")
+set(BINARY_NAME "the_expense_app")
 
 cmake_policy(SET CMP0063 NEW)
 

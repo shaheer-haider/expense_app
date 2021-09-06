@@ -44,3 +44,13 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# all except work
+.dart_tool/
+/android
+/ios
+/linux
+/macos
+/windows
+/test
+/web
